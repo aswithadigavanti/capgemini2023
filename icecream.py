@@ -1,1 +1,1 @@
-print("icecream is cool")
+print("ashu is a good girl")
